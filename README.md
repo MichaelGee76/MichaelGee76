@@ -11,8 +11,6 @@ I am passionate about exploring new technologies and continuously developing mys
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and the MERN Stack: MongoDB, Express.js, React, Node.js**
 
-- 📫 How to reach me **https://twitter.com/MichaelGee76**
-
 - ⚡ Fun fact **I laugh during laughter yoga**
 
 <h3 align="left">Connect with me:</h3>
