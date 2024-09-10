@@ -18,7 +18,7 @@ I am passionate about exploring new technologies and continuously developing mys
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-alexander-gottung-5265512a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.xing.com/profile/MichaelAlexander_Gottung039301/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" alt="xing" height="30" width="40" /></a>
+<a href="https://www.xing.com/profile/MichaelAlexander_Gottung039301/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="xing" height="30" width="40" /></a>
 <a href="https://twitter.com/michaelgee76" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
