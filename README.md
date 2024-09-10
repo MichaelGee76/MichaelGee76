@@ -7,7 +7,7 @@ My broad experience in different professional fields gives me a versatile unders
 
 I am passionate about exploring new technologies and continuously developing myself to keep up with the latest developments in the industry. My strengths lie in problem-solving, structured thinking, and the ability to communicate complex concepts clearly. Seeking new challenges and opportunities, I look forward to applying my knowledge and skills in the real world and making a positive contribution.</h3><br>
 
-<p align="left"> <a href="https://twitter.com/michaelgee76" target="blank"><img src="https://img.shields.io/twitter/follow/michaelgee76?logo=twitter&style=for-the-badge" alt="michaelgee76" /></a> </p>
+
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and the MERN Stack: MongoDB, Express.js, React, Node.js**
 
